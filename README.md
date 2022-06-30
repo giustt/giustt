@@ -11,7 +11,7 @@
 -->
 
 - 🔭 Atualmente Cursando o 3° Ano do Ensino Médio integrado ao curso de Técnico em Informática
-- 🌱 Atualmente Estudando HTML, CSS, JavaScript e Posteriormente ReactJs e NodeJs
+- 🌱 Atualmente Estudando ReactJs Posteriormente NodeJs
 
 ##
 
