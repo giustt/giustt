@@ -23,7 +23,7 @@
 
 <div style="display: inline_block"><br>
                                   
-                                  ## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ### 👩‍💻 &nbsp;Back-End
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
