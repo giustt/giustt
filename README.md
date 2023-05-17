@@ -10,9 +10,9 @@
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 Web Developer
 - 👨‍💻Formado em Técnico em Informática (Curso Integrado ao Ensino Médio)
 - 🔭 Atualmente Cursando Engenharia de Software (1° período) na instituição São Judas Tadeu
-- 🌱 Web Developer
 
 ***
 ## 📊 &nbsp;Stats
