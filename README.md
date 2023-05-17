@@ -10,7 +10,8 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Atualmente Cursando o 3° Ano do Ensino Médio integrado ao curso de Técnico em Informática
+- 👨‍💻Formado em Técnico em Informática (Curso Integrado ao Ensino Médio)
+- 🔭 Atualmente Cursando Engenharia de Software (1° período) na instituição São Judas Tadeu
 - 🌱 Atualmente Estudando ReactJs Posteriormente NodeJs
 
 ***
