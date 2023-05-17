@@ -12,7 +12,7 @@
 
 - 👨‍💻Formado em Técnico em Informática (Curso Integrado ao Ensino Médio)
 - 🔭 Atualmente Cursando Engenharia de Software (1° período) na instituição São Judas Tadeu
-- 🌱 Atualmente Estudando ReactJs Posteriormente NodeJs
+- 🌱 Web Developer
 
 ***
 ## 📊 &nbsp;Stats
