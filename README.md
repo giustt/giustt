@@ -12,7 +12,7 @@
 
 - 🌱 Web Developer
 - 👨‍💻Formado em Tecnologia da Informação (Curso Integrado ao Ensino Médio)
-- 🔭 Atualmente Cursando Engenharia de Software (2° período) na instituição São Judas Tadeu
+- 🔭 Atualmente Cursando Engenharia de Software (3° período) na instituição São Judas Tadeu
 
 ***
 ## 📊 &nbsp;Stats
